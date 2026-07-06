@@ -1,4 +1,4 @@
-# Classical NLP: MCI Markers (Polish) - PoC
+# Mild Cognitive Disorder Markers (Polish) - PoC
 
 A classical machine learning pipeline for detecting linguistic markers associated with Mild Cognitive Impairment (MCI) in Polish language descriptions of the "Cookie Theft" clinical picture task.
 
